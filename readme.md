@@ -28,7 +28,9 @@ explain how a member of the target audience will use it.
 
 list three of your app features and a pragraph descrbing each
 
-![feature draft].docs/highlevel copy 4.png
+
+
+![feature draft].docs/highlevelcopy4.png
 
 ### Feature 1
 
