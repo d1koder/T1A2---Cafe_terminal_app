@@ -30,6 +30,7 @@ list three of your app features and a pragraph descrbing each
 
 .docs/highlevel copy 4.png
 ./docs/highlevel.jpg
+![](docs/highlevel.jpg)
 
 
 ### Feature 1
