@@ -30,7 +30,7 @@ list three of your app features and a pragraph descrbing each
 
 <img src="docs/highlevel.jpg" width="100">
 
-![](docs/highlevel.jpg)
+#![](docs/highlevel.jpg)
 
 
 ### Feature 1
