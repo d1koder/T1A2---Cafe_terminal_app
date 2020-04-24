@@ -8,6 +8,7 @@ This app will be intended to be used as a way to order take-away coffee in advan
 
 ### Description of App
 
+The app will open up to a welcome page and display DK COFFEE to the user (Displaying name will be for marketing purposes). It then opens up to the selection menu. From the choices availble, the user will then proceed to select the type of coffee and all of its options at the users discretion. An error message will be displayed throughout the whole app if and when the user inputs a  random entry. At the end of the app, the app will display an order summary 
 Describe at high level what app will do
 
 ### What Problem it will Solve and Why
