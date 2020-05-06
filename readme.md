@@ -81,7 +81,7 @@ Along with the Control Flow Diagram represented above, a Trello board will be ut
 
 **insert trello screenshot and link*
 
-<img src="/Users/dk/Google Drive/CA Stuff/T1A2/trello board screenshot.png" style="zoom:75%;" />
+<img src="/docs/trello%20board%20screenshot.png/trello board screenshot.png" style="zoom:75%;" />
 
 ## Testing
 
