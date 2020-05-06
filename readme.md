@@ -101,7 +101,7 @@ Instructions can also be found in the help.md file or just click here.
 
 #### Minimum System requirements
 
-​	**OS**							Windows 10 version 14393.351 or higher/ macOS Catalina or higher
+​	**OS** 							Windows 10 version 14393.351 or higher/ macOS Catalina or higher
 
 ​	**Processor**				Intel Pentium 4 or higher
 
