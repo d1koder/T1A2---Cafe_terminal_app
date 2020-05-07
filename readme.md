@@ -73,8 +73,7 @@ Once the user has selected their coffee and along with all the otional extras, t
 
 ## Control Flow Diagram
 
-insert flow chart here
-
+<img src="docs/flowchart.jpg" width="100">
 ## Implementation Plan
 
 Along with the Control Flow Diagram represented above, a Trello board will be utilised throuough the development of the app and assignment procedures. The Trello board, under the heading- T1A2 AtoZ- has been systematiclly updated and describes each process from the concept initalisaton through to the final product. 
