@@ -32,6 +32,9 @@ From there, actual use of the app will be very straightforward, with the aim bei
 
 ## 2.0	App Features
 <img src="docs/ascii.png" style="zoom:100%;" />
+
+
+
 ### 2.1	Feature 1 - Menu's for Coffee Selection 
 
 This is a feature that'll let users define what coffee, amount of sugar, type of milk and at what temperature they would like their coffee to be. There will be error handling so that user inputs only acceptable inputs. It will also display pricing next to each option so that the order summary will include every option.
