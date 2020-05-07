@@ -1,36 +1,40 @@
-# DK's Coffee Ordering App! ☕️
+# **DK's Coffee Ordering App!** ☕️
 
-# Software Development Plan
+# **Software Development Plan**
 
-## 1.0	Statement of Purpose and Scope
+## **1.0	Statement of Purpose and Scope**
 
-This app will be intended to be used as a way to order take-away coffee in advanced, providing a level of convenience thatll benefit both all shareholders (Cafe owner, and customers). Users will be able to select from a range of coffee's and sizes, with the options to add on extras. 
+This app will be intended to be used as a way to order take-away coffee in advanced, providing a level of convenience that'll benefit all shareholders (Cafe owner, and customers). Users will be able to select from a range of coffee's and sizes, with the options to add on extras. 
 
-### 1.1	Description of App
+### **1.1	Description of App**
 
-The app will open up to a welcome page and display DK COFFEE to the user (Displaying name will be for marketing purposes). It will then open up to the selection menu. From the choices availble, the user will then proceed to select the type of coffee and all of its options, such as, sugar, soy or almond milk, milk temperature, etc at the users discretion. An error message will be displayed throughout the whole app if or when the user inputs a random entry, and the user will then be kindly prompted to try again. ASCII images will be used to display the different coffee sizes available, to help with the UX side of things. The app will have a simple "true/false" approach for the user to make its selectionfor the purpose of an easier UI. Pricing will be factored into each ordering phase and the total displayed at the end. If the user is happy with its final order, the app will display an order summary (pricing, coffee type, etc), and then display a "thankyou"message before exiting the program.
+The app will open up to a welcome page and display "DK COFFEE" to the user (Displaying name will be for marketing purposes). It will then open up to the selection menu. From the choices availble, the user will then proceed to select the type of coffee and all of its options, such as, sugar, soy or almond milk, milk temperature, etc at the users discretion. 
 
-### 1.2	What Problem it will Solve and Why
+An error message will be displayed throughout the whole app if or when the user inputs a random entry, and the user will then be kindly prompted to try again. ASCII images will be used to display the different coffee sizes available, to help with the UX side of things. 
 
-Many people, especially coffee lovers, are busy proffesionals with tight schedules. This app will hopefully bridge that gap of having to wait in line for their coffee fix, instead, providing them with the luxury of a "coffee-on-the-go" service, so they may go about their day without being inconvenienced. The client, DK's Café, will benfefit from reduced staffing costs and an increase in coffee sales due to the convenience itll provide its existing and potential customers. A win-win for everyone, so why not?
+The app will have a simple "true/false" approach for the user to make its selectionfor the purpose of an easier UI. Pricing will be factored into each ordering phase and the total displayed at the end. If the user is happy with its final order, the app will display an order summary (pricing, coffee type, etc), and then display a "thankyou"message before exiting the program.
+
+### **1.2	What Problem it will Solve and Why**
+
+Many people, especially coffee lovers, are busy proffesionals running on tight schedules. This app will hopefully bridge that gap of having to wait in line for coffee, instead, providing them with the luxury of a "coffee-on-the-go" service, so they may go about their day without being inconvenienced. 
+
+The client, DK's Café, will benfefit from reduced staffing costs and an increase in coffee sales due to the convenience it'll provide its existing and potential customers. A win-win for everyone.
 
 ### 1.3	Who are the Target Audience
 
-The target audience for this app will first and foremost be the "regulars" that come into the clients - DK's Café - shop. We will then use the app to reach out to  the untapped foot traffic of new customers, such as people from surrounding office builidings and general populous. Basically we want all the busy proffesionals in the surrounding area to use our app, in order to boost sales for our client. 
+The target audience for this app will, first and foremost be the "regulars" that come into the clients - DK's Café - shop. We will then use the app to reach out to any untapped foot traffic of new customers, such as people from surrounding office builidings and general populous. Basically we want all the busy proffesionals in the surrounding area to use our app, in order to boost sales for our client. 
 
 ### 1.4	How will Target Audience use App
 
-People can use this app by downloading it their mobile device, from either the App Store or Google Play, or by scanning the QR code, which will be promoted all theroughout the café. From there, actual use of the app will be very straightforward, with the aim being, no instructions will be requried to use the app. the ordering experience will follow the same logical process as if in person. This will be where the UX/UI of the app will shine!
+People can use this app by downloading it on to their mobile device, from either the App Store or Google Play, or by scanning the QR code, which will be promoted all throughout the café. 
+
+From there, actual use of the app will be very straightforward, with the aim being, no instructions necessary to use the app. The ordering experience will follow the same logical process as if the user were to order in person. This is where the UX/UI of the app will shine!
 
 ## 2.0	App Features
 <img src="docs/ascii.png" style="zoom:100%;" />
 ### 2.1	Feature 1 - Menu's for Coffee Selection 
 
-Promptz asking user to input theire selections
-
-This is a feature thatll let users choose what coffee, any sugar, type of milk, how they want their milk temp at etc, error handling so that user inputs only acceptable symbols, display priciing next to each option etc.
-
-welcome messages and thankyou messages
+This is a feature that'll let users define what coffee, amount of sugar, type of milk and at what temperature they would like their coffee to be. There will be error handling so that user inputs only acceptable inputs. It will also display pricing next to each option so that the order summary will include every option.
 
 ### 2.2	Feature 2 - Graphical Display of Coffee Size's
 
@@ -38,7 +42,7 @@ A feature, mainly for the puropses of this assignment, however it can also serve
 
 ### 2.3	Feature 3 - Order Summary
 
-this feature is definitely a must have. It will display the users selection and then print to the user their final order along with its final price. price will be structured in using methods etc.
+This feature is definitely a must have. It will display the users selection and then print to the user their final order along with its final price. Price will be structured in using methods and classes.
 
 ### 2.4	*Nice to Have Features*
 
@@ -53,17 +57,21 @@ this feature is definitely a must have. It will display the users selection and 
 
 ### 3.1	Feature 1
 
-The app beings with a welcome message whcih simply just displays the name of the clients cafe. 
+"DK's Coffee" will be displayed immediately upon opening app, after a 1.5 sec pause it will then direct the user to a prompt asking which coffee they'd like. The user will find out how to use this feature based on the assumption that they've ordered a coffee from a cafe prior to using any sort of coffee ordering app. 
 
-"DK's Coffee" will be displayed immediately upon opening app, after a 1.5 sec pause it will then direct the user to a prompt asking which coffee they'd like. the user will find out how to use this feature based on the assumption theyve ordered a coffee from a cafe prior to using any sort of coffee ordering app. TThis he menu will follow the same systemitc approach, just as if you were ordering a coffe in person. The ordering process will basically be self explanatory, while the menu functions "guide" the user therough their ordering experience until they reach their final order summary, with the users interacting by inputing their selection from the menu. ie. What coffee would you like? 1)Flat-White, 2)Latte, 3)Cappuccino.The user will input either 1,2 or 3to select their coffee.  errors will be handled by first showing the user the only acceptable inputs and if user makes a mistake, an error messge will be displayed like so, "Oops! Looks like you enetered something else. Please enter a selection from the list."
+The menu will follow the same systemitc approach, just as if you were ordering a coffe in person. The ordering process will basically be self explanatory, while the menu's categories will "guide" the user through their ordering process until they reach the final order summary. With the users interacting by inputing their selection from the menu. ie. What coffee would you like? 1)Flat-White, 2)Latte, 3)Cappuccino.The user will input either 1,2 or 3 to select their coffee.  Errors will be handled by first showing the user the only acceptable inputs and if user makes a mistake, an error messge will be displayed like so, "Oops! Looks like you enetered something else. Please enter a selection from the list."
 
 ### 3.2	Feature 2
 
-The user will not need to do anything to use this feature. it will be automatically displayed when using the app. the images will be displayed for the users enjoyment. as long as the user/s are not blind or have any physical impariments thatll obsrtuct theier eyes from veiwing the app directly, then by the very nature of images being images, the user will interact with this feature via their eyeballs. There should be no errors that the app wil handle with this feture. 
+The user will not need to do anything to use this feature. It will be automatically displayed when using the app. The images will be displayed for the users enjoyment. as long as the user/s are not blind or have any physical impariments that'll obsrtuct their eyes from veiwing the app directly, then by the very nature of images being images, the user will interact with this feature via their eye's.
 
 ### 3.3	Feature 3
 
-Once the user has selected their coffee and along with all the otional extras, the app will take them to an order summary page, where it will display the order along with its final price. Again, by going off on the aforementioned assumption, the user will not need to learn how to interect with this feature. simply they will just check if the order is correct, making sure that the app has displayed their selections correclty, then the app will ask the user, "Your order is____, and comes to a total cost of $__. Is this correct?". A Yes or No input will be prompted to the user. If the user is happy with thier order, they can proceed to input a Y for yes, and then the app will display a "thankyou" message before exiting the app and insteructuing the user to pick their order up in 5 mins. If user inputs N for No, the app will then go back to the ordering screen to start the order again. 
+Once the user has selected their coffee and along with all the optional extras, the app will take them to an order summary page, where it will display the order along with its final price. 
+
+Again, by going off on the aforementioned assumption, the user will not need to learn how to interect with this feature. Simply they'll just check if the order is correct, making sure the app has displayed their selections correclty, then the app will ask the user, "Your order is, and comes to a total cost of $__. Is this correct?". 
+
+A Yes or No input will be prompted to the user. If the user is happy with the order, they can proceed to input a (Y) for yes, which the app will then display a "thankyou" message before exiting and instructing the to pick up order in 5 mins. If user inputs (N) for No, the app will then go back to the ordering screen to start the order again. 
 
 ## 4.0	Control Flow Diagram
 
@@ -79,15 +87,13 @@ Along with the Control Flow Diagram represented above, a Trello board will be ut
 
 ## 6.0	Testing
 
-|                        Feature                         | descrpiton of expected outcome | result | other issues |
-| :----------------------------------------------------: | ------------------------------ | ------ | ------------ |
-|                                                        |                                |        |              |
-|                                                        |                                |        |              |
-| order summary displays<br />correct order and prcicing |                                |        |              |
-|                                                        |                                |        |              |
-|                                                        |                                |        |              |
-|                                                        |                                |        |              |
-|                                                        |                                |        |              |
+|                      Feature                       | descrpiton of expected outcome                               | result       | other issues                                              |
+| :------------------------------------------------: | ------------------------------------------------------------ | ------------ | --------------------------------------------------------- |
+|            Welcome message is displayed            | ASCII generated image should display upon starting app.      | Nil          | Not enough time.                                          |
+| Menu screen displaying coffee options and pricing. | Clean display of an ordered list of Coffee items and its respective price next to it. | As expected  | Code need fine tuning.                                    |
+|      ASCII images showing different cup sizes      | When user is asked to select coffee size, images of the different coffee sizes should appear. | Nil          | Not enough time.                                          |
+|                Final order summary                 | An order summary showing user their coffee selections amd total price. | As expected. | Could not incorporate the extra options into final price. |
+|           Error handling when selecting            | App should recognize when user inputs a random entry and then prompt user to try again with the correct format. | Nil          | Not enough time.                                          |
 
 ## 7.0	INSTALLATION
 
