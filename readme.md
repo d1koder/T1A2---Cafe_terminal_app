@@ -24,14 +24,6 @@ People can use this app by downloading it their mobile device, from either the A
 
 ## App Features
 
-
-
-list three of your app features and a pragraph descrbing each
-
-<img src="docs/highlevel.jpg" width="100">
-
-
-
 ### Feature 1 - Menu's for Coffee Selection 
 
 Promptz asking user to input theire selections
@@ -79,9 +71,7 @@ Control flow of the coffee application, including all its features.
 
 ## Implementation Plan
 
-Along with the Control Flow Diagram represented above, a Trello board will be utilised throuough the development of the app and assignment procedures. The Trello board, under the heading- T1A2 AtoZ- has been systematiclly updated and describes each process from the concept initalisaton through to the final product. 
-
-**insert trello screenshot and link*
+Along with the Control Flow Diagram represented above, a Trello board will be utilised throuough the development of the app and assignment procedures. The Trello board, under the heading- T1A2 AtoZ- has been systematiclly updated and describes each process from the concept initalisaton through to the final product. [Trello Board](https://trello.com/invite/b/yBfFTSTa/8750ea9ff1ec99eda9a30218b4531af1/t1a2-atoz)
 
 <img src="docs/trello%20board%20screenshot.png" style="zoom:75%;" />
 
