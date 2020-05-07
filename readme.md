@@ -23,7 +23,7 @@ The target audience for this app will first and foremost be the "regulars" that 
 People can use this app by downloading it their mobile device, from either the App Store or Google Play, or by scanning the QR code, which will be promoted all theroughout the café. From there, actual use of the app will be very straightforward, with the aim being, no instructions will be requried to use the app. the ordering experience will follow the same logical process as if in person. This will be where the UX/UI of the app will shine!
 
 ## App Features
-
+<img src="docs/ascii.png" style="zoom:100%;" />
 ### Feature 1 - Menu's for Coffee Selection 
 
 Promptz asking user to input theire selections
